@@ -42,7 +42,7 @@ For IoT or machine-to-machine applications, please check [m2m](https://www.npmjs
     - [GPIO](#gpio)
       - [Input](#input-properties)
       - [Output](#output-properties)
-    - [PWM](#pwm)
+    - [PWM](https://github.com/EdAlegrid/array-gpio#pwm)
     - [I2C](#i2c)
     - [SPI](#spi)
 
